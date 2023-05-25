@@ -1,2 +1,0 @@
-# EEG
-EEG fast
